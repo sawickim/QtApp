@@ -74,7 +74,7 @@ void myDatabase(){
 
     if (db.open())
     {
-        qDebug() << "opened!";
+        qDebug() << "opened dataBase!";
 
     }
     else
